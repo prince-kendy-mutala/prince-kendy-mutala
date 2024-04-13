@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @prince-kendy-mutala 
+- 👀 I’m interested in IT ( studying information systems)  , currently doing Java ...
+- 💞️ I’m looking to collaborate on any project ( im a beginner) ......
+- 😄 Pronouns: Christian boy 
+- ⚡ Fun fact: you're awesome
+
+<!---
+prince-kendy-mutala/prince-kendy-mutala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
